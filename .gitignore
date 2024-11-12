@@ -1,0 +1,46 @@
+# User-specific files
+.idea/
+.vs/
+.vscode/
+# Windows image file caches
+Thumbs.db
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET build outputs
+bin/
+obj/
+
+# .NET Core / .NET 5+ specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET temporary files
+wwwroot/
+*_i.csr
+*_i.cer
+*_i.crl
+*_i.pem
+
+# Local development files for IIS or other servers
+.vs2017/
+.vs2019/
+.vs2015/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mac OS specific files
+.DS_Store
+
+# JetBrains Rider IDE
+.idea/
+
+# .NET Core toolchain & configurations
+.nuget/
+.nuget/packages/
