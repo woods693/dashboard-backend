@@ -3,6 +3,8 @@
 ## Version
 dotnet version: 8.0.403
 
-## Run instructions
+## Build
 dotnet build
+
+## Run
 dotnet run
